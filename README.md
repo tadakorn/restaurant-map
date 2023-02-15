@@ -12,6 +12,12 @@ See [Vite Configuration Reference](https://vitejs.dev/config/).
 
 ## Project Setup
 
+### Edit .env file and set Google Maps API Key
+
+`VITE_GOOGLE_MAP_API_KEY="Your Google Map API Key"`
+
+### Install Package
+
 ```sh
 npm install
 ```
